@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Barrineau_Exam3</string>
+    <string name="pageTitleTxt">Ukulele Music</string>
+    <string name="btnPlay_Descrpt">Click here to play the selected music</string>
+    <string name="btnPlayTxt">Play Music</string>
+    <string name="btnStopDescrpt">Click here to sop the selected music</string>
+    <string name="btnStopTxt">Stop Music</string>
+    <string name="purchaseHint">Enter number to purchase</string>
+    <string name="calculteBtnDescrpt">Click here to calculate your cost</string>
+    <string name="calculateBtnTxt">Calculate</string>
+    <string-array name="prodcutSpiner">
+        <item>mild</item>
+        <item>medium</item>
+        <item>hot</item>
+    </string-array>
+</resources>
